@@ -1,0 +1,924 @@
+{
+ "cards": [
+  {
+   "id": "ciudades_ruinas_americas_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_americas_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/americas.webp"
+  },
+  {
+   "id": "ciudades_ruinas_americas_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_americas_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/americas.webp"
+  },
+  {
+   "id": "ciudades_ruinas_americas_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_americas_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/americas.webp"
+  },
+  {
+   "id": "ciudades_ruinas_americas_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_americas_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/americas.webp"
+  },
+  {
+   "id": "ciudades_ruinas_asia_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_asia_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/asia.webp"
+  },
+  {
+   "id": "ciudades_ruinas_asia_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_asia_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/asia.webp"
+  },
+  {
+   "id": "ciudades_ruinas_asia_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_asia_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/asia.webp"
+  },
+  {
+   "id": "ciudades_ruinas_asia_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_asia_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/asia.webp"
+  },
+  {
+   "id": "ciudades_ruinas_general_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_general_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/general.webp"
+  },
+  {
+   "id": "ciudades_ruinas_general_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_general_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/general.webp"
+  },
+  {
+   "id": "ciudades_ruinas_general_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_general_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/general.webp"
+  },
+  {
+   "id": "ciudades_ruinas_general_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_general_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/general.webp"
+  },
+  {
+   "id": "ciudades_ruinas_europa_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_europa_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/europa.webp"
+  },
+  {
+   "id": "ciudades_ruinas_europa_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_europa_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/europa.webp"
+  },
+  {
+   "id": "ciudades_ruinas_europa_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_europa_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/europa.webp"
+  },
+  {
+   "id": "ciudades_ruinas_europa_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_europa_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/europa.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_05",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_05.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_otros_mundos_06",
+   "expansion": "ciudades_ruinas",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_otros_mundos_06.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_londres_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Londres",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_londres_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_londres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_londres_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Londres",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_londres_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_londres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_san_francisco_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "San Francisco",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_san_francisco_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_san_francisco.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_san_francisco_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "San Francisco",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_san_francisco_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_san_francisco.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_shanghai_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Shanghái",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_shanghai_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_shanghai.webp"
+  },
+  {
+   "id": "ciudades_ruinas_expedicion_shanghai_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Shanghái",
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_expedicion_shanghai_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/expedicion_shanghai.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_05",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_05.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_06",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_06.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_07",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_07.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_08",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_08.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_09",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_09.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_10",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_10.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_11",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_11.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_12",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_12.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_13",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_13.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_14",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_14.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_15",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_15.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_desastres_16",
+   "expansion": "ciudades_ruinas",
+   "deck": "desastres",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_desastres_16.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/desastres.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_05",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_05.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_06",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_06.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_07",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_07.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_08",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_08.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_09",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_09.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_10",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_10.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_11",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_11.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_12",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_12.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_13",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_13.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_14",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_14.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_15",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_15.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_devastacion_16",
+   "expansion": "ciudades_ruinas",
+   "deck": "devastacion",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_devastacion_16.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/devastacion.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_05",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_05.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_06",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_06.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_07",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_07.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_08",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_08.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_09",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_09.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_10",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_10.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_11",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_11.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_12",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_12.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_13",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_13.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_14",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_14.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_15",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_15.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_16",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_16.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_17",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_17.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_18",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_18.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_19",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_19.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_20",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_20.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_21",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_21.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_22",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_22.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_23",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_23.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_investigacion_shudde_mell_24",
+   "expansion": "ciudades_ruinas",
+   "deck": "investigacion",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_investigacion_shudde_mell_24.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/investigacion_shudde_mell.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_01",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_01.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_02",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_02.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_03",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_03.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_04",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_04.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_05",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_05.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_06",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_06.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_07",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_07.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  },
+  {
+   "id": "ciudades_ruinas_especial_shudde_mell_gharne_08",
+   "expansion": "ciudades_ruinas",
+   "deck": "especial",
+   "ancientOne": "shudde_mell",
+   "location": null,
+   "special": "gharne",
+   "image": "assets/cards/ciudades_ruinas/ciudades_ruinas_especial_shudde_mell_gharne_08.webp",
+   "back": "assets/cards/ciudades_ruinas/reversos/especial_shudde_mell_gharne.webp"
+  }
+ ]
+}

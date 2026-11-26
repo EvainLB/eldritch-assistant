@@ -1,0 +1,1484 @@
+{
+ "cards": [
+  {
+   "id": "saber_olvidado_especial_yig_knyan_01",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_02",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_03",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_04",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_05",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_06",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_07",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yig_knyan_08",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yig",
+   "location": null,
+   "special": "knyan",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yig_knyan_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yig_knyan.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_cthulhu_resurgir_rlyeh_01",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": "resurgir_rlyeh",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_cthulhu_resurgir_rlyeh_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_cthulhu_resurgir_rlyeh.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_cthulhu_resurgir_rlyeh_02",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": "resurgir_rlyeh",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_cthulhu_resurgir_rlyeh_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_cthulhu_resurgir_rlyeh.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_01",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_02",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_03",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_04",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_05",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_06",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_07",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_vacio_mundos_08",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "vacio_mundos",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_vacio_mundos_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_vacio_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_llave_puerta_01",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "llave_puerta",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_llave_puerta_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_llave_puerta.webp"
+  },
+  {
+   "id": "saber_olvidado_especial_yog_sothoth_llave_puerta_02",
+   "expansion": "saber_olvidado",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": "llave_puerta",
+   "image": "assets/cards/saber_olvidado/saber_olvidado_especial_yog_sothoth_llave_puerta_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/especial_yog_sothoth_llave_puerta.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_el_corazon_de_africa_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El corazón de África",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_el_corazon_de_africa_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_el_corazon_de_africa.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_el_amazonas_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Amazonas",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_el_amazonas_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_el_amazonas.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_antartida_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Antártida",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_antartida_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_antartida.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_el_himalaya_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Himalaya",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_el_himalaya_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_el_himalaya.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_las_piramides_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Las pirámides",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_las_piramides_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_las_piramides.webp"
+  },
+  {
+   "id": "saber_olvidado_expedicion_tunguska_01",
+   "expansion": "saber_olvidado",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Tunguska",
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_expedicion_tunguska_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/expedicion_tunguska.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_01",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_02",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_03",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_04",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_05",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_06",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_07",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_americas_08",
+   "expansion": "saber_olvidado",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_americas_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/americas.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_01",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_02",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_03",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_04",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_05",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_06",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_07",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_asia_08",
+   "expansion": "saber_olvidado",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_asia_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/asia.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_01",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_02",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_03",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_04",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_05",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_06",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_07",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_europa_08",
+   "expansion": "saber_olvidado",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_europa_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/europa.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_01",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_02",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_03",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_04",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_05",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_otros_mundos_06",
+   "expansion": "saber_olvidado",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_otros_mundos_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_01",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_02",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_03",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_04",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_05",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_06",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_07",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_08",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_09",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_09.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_10",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_10.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_11",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_11.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_12",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_12.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_13",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_13.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_14",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_14.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_15",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_15.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_azathoth_16",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_azathoth_16.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_01",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_02",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_03",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_04",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_05",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_06",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_07",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_08",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_09",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_09.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_10",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_10.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_11",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_11.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_12",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_12.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_13",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_13.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_14",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_14.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_15",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_15.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_cthulhu_16",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_cthulhu_16.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_01",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_02",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_03",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_04",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_05",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_06",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_07",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_08",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_09",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_09.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_10",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_10.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_11",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_11.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_12",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_12.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_13",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_13.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_14",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_14.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_15",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_15.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_shub_niggurath_16",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_shub_niggurath_16.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_01",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_02",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_03",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_04",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_05",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_06",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_07",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_08",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_09",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_09.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_10",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_10.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_11",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_11.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_12",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_12.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_13",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_13.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_14",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_14.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_15",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_15.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yog_sothoth_16",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yog_sothoth_16.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_01",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_02",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_03",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_04",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_05",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_05.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_06",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_06.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_07",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_07.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_08",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_08.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_09",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_09.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_10",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_10.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_11",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_11.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_12",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_12.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_13",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_13.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_14",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_14.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_15",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_15.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_16",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_16.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_17",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_17.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_18",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_18.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_19",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_19.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_20",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_20.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_21",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_21.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_22",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_22.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_23",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_23.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_investigacion_yig_24",
+   "expansion": "saber_olvidado",
+   "deck": "investigacion",
+   "ancientOne": "yig",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_investigacion_yig_24.webp",
+   "back": "assets/cards/saber_olvidado/reversos/investigacion_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_general_01",
+   "expansion": "saber_olvidado",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_general_01.webp",
+   "back": "assets/cards/saber_olvidado/reversos/general.webp"
+  },
+  {
+   "id": "saber_olvidado_general_02",
+   "expansion": "saber_olvidado",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_general_02.webp",
+   "back": "assets/cards/saber_olvidado/reversos/general.webp"
+  },
+  {
+   "id": "saber_olvidado_general_03",
+   "expansion": "saber_olvidado",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_general_03.webp",
+   "back": "assets/cards/saber_olvidado/reversos/general.webp"
+  },
+  {
+   "id": "saber_olvidado_general_04",
+   "expansion": "saber_olvidado",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/saber_olvidado/saber_olvidado_general_04.webp",
+   "back": "assets/cards/saber_olvidado/reversos/general.webp"
+  }
+ ]
+}

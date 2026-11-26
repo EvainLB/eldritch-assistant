@@ -1,0 +1,265 @@
+{
+ "ancientOnes": [
+  {
+   "id": "hastur",
+   "expansion": "senales_carcosa",
+   "sheet": "assets/primigenios/senales_carcosa/hastur_hoja.webp",
+   "sheetBack": "assets/primigenios/senales_carcosa/hastur_reverso.webp",
+   "portrait": "assets/primigenios/senales_carcosa/hastur_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "senales_carcosa_mitos_verde_01",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_01.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_02",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_02.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_03",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_03.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_04",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_04.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_05",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_05.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_06",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_06.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_07",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_07.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_verde_08",
+   "expansion": "senales_carcosa",
+   "color": "verde",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_verde_08.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_01",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_01.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_02",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_02.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_03",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_03.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_04",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_04.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_05",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_05.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_06",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_06.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_07",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_07.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_08",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_08.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_09",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_09.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_amarillo_10",
+   "expansion": "senales_carcosa",
+   "color": "amarillo",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_amarillo_10.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_01",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_01.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_02",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_02.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_03",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_03.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_04",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_04.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_05",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_05.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_mitos_azul_06",
+   "expansion": "senales_carcosa",
+   "color": "azul",
+   "image": "assets/cards/senales_carcosa/mitos/senales_carcosa_mitos_azul_06.webp",
+   "back": "assets/cards/senales_carcosa/mitos/reverso.webp"
+  }
+ ],
+ "preludes": [
+  {
+   "id": "senales_carcosa_preludio_01",
+   "expansion": "senales_carcosa",
+   "image": "assets/cards/senales_carcosa/preludios/senales_carcosa_preludio_01.webp",
+   "back": "assets/cards/senales_carcosa/preludios/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_preludio_02",
+   "expansion": "senales_carcosa",
+   "image": "assets/cards/senales_carcosa/preludios/senales_carcosa_preludio_02.webp",
+   "back": "assets/cards/senales_carcosa/preludios/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_preludio_03",
+   "expansion": "senales_carcosa",
+   "image": "assets/cards/senales_carcosa/preludios/senales_carcosa_preludio_03.webp",
+   "back": "assets/cards/senales_carcosa/preludios/reverso.webp"
+  },
+  {
+   "id": "senales_carcosa_preludio_04",
+   "expansion": "senales_carcosa",
+   "image": "assets/cards/senales_carcosa/preludios/senales_carcosa_preludio_04.webp",
+   "back": "assets/cards/senales_carcosa/preludios/reverso.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "senales_carcosa_misterio_hastur_01",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_01.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_02",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_02.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_03",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_03.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_04",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_04.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_05",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_05.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_06",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_06.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_07",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_07.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_misterio_hastur_08",
+   "expansion": "senales_carcosa",
+   "ancientOne": "hastur",
+   "image": "assets/cards/senales_carcosa/misterios/senales_carcosa_misterio_hastur_08.webp",
+   "back": "assets/cards/senales_carcosa/misterios/reverso_hastur.webp"
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "ancientOnes": [
+  {
+   "id": "shudde_mell",
+   "expansion": "ciudades_ruinas",
+   "sheet": "assets/primigenios/ciudades_ruinas/shudde_mell_hoja.webp",
+   "sheetBack": "assets/primigenios/ciudades_ruinas/shudde_mell_reverso.webp",
+   "portrait": "assets/primigenios/ciudades_ruinas/shudde_mell_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "ciudades_ruinas_mitos_verde_01",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_01.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_02",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_02.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_03",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_03.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_04",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_04.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_05",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_05.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_06",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_06.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_07",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_07.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_08",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_08.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_verde_09",
+   "expansion": "ciudades_ruinas",
+   "color": "verde",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_verde_09.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_01",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_01.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_02",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_02.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_03",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_03.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_04",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_04.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_05",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_05.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_06",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_06.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_07",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_07.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_08",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_08.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_09",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_09.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_10",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_10.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_11",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_11.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_amarillo_12",
+   "expansion": "ciudades_ruinas",
+   "color": "amarillo",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_amarillo_12.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_azul_01",
+   "expansion": "ciudades_ruinas",
+   "color": "azul",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_azul_01.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_azul_02",
+   "expansion": "ciudades_ruinas",
+   "color": "azul",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_azul_02.webp"
+  },
+  {
+   "id": "ciudades_ruinas_mitos_azul_03",
+   "expansion": "ciudades_ruinas",
+   "color": "azul",
+   "back": "assets/cards/ciudades_ruinas/mitos/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/mitos/ciudades_ruinas_mitos_azul_03.webp"
+  }
+ ],
+ "preludes": [
+  {
+   "id": "ciudades_ruinas_preludio_01",
+   "expansion": "ciudades_ruinas",
+   "back": "assets/cards/ciudades_ruinas/preludios/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/preludios/ciudades_ruinas_preludio_01.webp"
+  },
+  {
+   "id": "ciudades_ruinas_preludio_02",
+   "expansion": "ciudades_ruinas",
+   "back": "assets/cards/ciudades_ruinas/preludios/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/preludios/ciudades_ruinas_preludio_02.webp"
+  },
+  {
+   "id": "ciudades_ruinas_preludio_03",
+   "expansion": "ciudades_ruinas",
+   "back": "assets/cards/ciudades_ruinas/preludios/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/preludios/ciudades_ruinas_preludio_03.webp"
+  },
+  {
+   "id": "ciudades_ruinas_preludio_04",
+   "expansion": "ciudades_ruinas",
+   "back": "assets/cards/ciudades_ruinas/preludios/reverso.webp",
+   "image": "assets/cards/ciudades_ruinas/preludios/ciudades_ruinas_preludio_04.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_01",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_01.webp"
+  },
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_02",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_02.webp"
+  },
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_03",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_03.webp"
+  },
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_04",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_04.webp"
+  },
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_05",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_05.webp"
+  },
+  {
+   "id": "ciudades_ruinas_misterio_shudde_mell_06",
+   "expansion": "ciudades_ruinas",
+   "ancientOne": "shudde_mell",
+   "back": "assets/cards/ciudades_ruinas/misterios/reverso_shudde_mell.webp",
+   "image": "assets/cards/ciudades_ruinas/misterios/ciudades_ruinas_misterio_shudde_mell_06.webp"
+  }
+ ]
+}

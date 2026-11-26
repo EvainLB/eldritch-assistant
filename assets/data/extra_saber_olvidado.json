@@ -1,0 +1,155 @@
+{
+ "ancientOnes": [
+  {
+   "id": "yig",
+   "expansion": "saber_olvidado",
+   "sheet": "assets/primigenios/saber_olvidado/yig_hoja.webp",
+   "sheetBack": "assets/primigenios/saber_olvidado/yig_reverso.webp",
+   "portrait": "assets/primigenios/saber_olvidado/yig_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "saber_olvidado_mitos_azul_01",
+   "expansion": "saber_olvidado",
+   "color": "azul",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_azul_01.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  },
+  {
+   "id": "saber_olvidado_mitos_azul_02",
+   "expansion": "saber_olvidado",
+   "color": "azul",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_azul_02.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  },
+  {
+   "id": "saber_olvidado_mitos_verde_01",
+   "expansion": "saber_olvidado",
+   "color": "verde",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_verde_01.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  },
+  {
+   "id": "saber_olvidado_mitos_verde_02",
+   "expansion": "saber_olvidado",
+   "color": "verde",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_verde_02.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  },
+  {
+   "id": "saber_olvidado_mitos_amarillo_01",
+   "expansion": "saber_olvidado",
+   "color": "amarillo",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_amarillo_01.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  },
+  {
+   "id": "saber_olvidado_mitos_amarillo_02",
+   "expansion": "saber_olvidado",
+   "color": "amarillo",
+   "image": "assets/cards/saber_olvidado/mitos/saber_olvidado_mitos_amarillo_02.webp",
+   "back": "assets/cards/saber_olvidado/mitos/reverso.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "saber_olvidado_misterio_yig_01",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_01.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yig_02",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_02.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yig_03",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_03.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yig_04",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_04.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yig_05",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_05.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yig_06",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yig",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yig_06.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yig.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_azathoth_01",
+   "expansion": "saber_olvidado",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_azathoth_01.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_azathoth_02",
+   "expansion": "saber_olvidado",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_azathoth_02.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_cthulhu_01",
+   "expansion": "saber_olvidado",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_cthulhu_01.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_cthulhu_02",
+   "expansion": "saber_olvidado",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_cthulhu_02.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_shub_niggurath_01",
+   "expansion": "saber_olvidado",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_shub_niggurath_01.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_shub_niggurath_02",
+   "expansion": "saber_olvidado",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_shub_niggurath_02.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yog_sothoth_01",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yog_sothoth_01.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yog_sothoth.webp"
+  },
+  {
+   "id": "saber_olvidado_misterio_yog_sothoth_02",
+   "expansion": "saber_olvidado",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/saber_olvidado/misterios/saber_olvidado_misterio_yog_sothoth_02.webp",
+   "back": "assets/cards/saber_olvidado/misterios/reverso_yog_sothoth.webp"
+  }
+ ]
+}

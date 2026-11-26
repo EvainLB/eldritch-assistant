@@ -1,0 +1,438 @@
+{
+ "ancientOnes": [
+  {
+   "id": "antiguos",
+   "expansion": "montanas_locura",
+   "sheet": "assets/primigenios/montanas_locura/antiguos_hoja.webp",
+   "sheetBack": "assets/primigenios/montanas_locura/antiguos_reverso.webp",
+   "portrait": "assets/primigenios/montanas_locura/antiguos_retrato.webp"
+  },
+  {
+   "id": "ithaqua",
+   "expansion": "montanas_locura",
+   "sheet": "assets/primigenios/montanas_locura/ithaqua_hoja.webp",
+   "sheetBack": "assets/primigenios/montanas_locura/ithaqua_reverso.webp",
+   "portrait": "assets/primigenios/montanas_locura/ithaqua_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "montanas_locura_mitos_amarillo_01",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_01.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_02",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_02.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_03",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_03.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_04",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_04.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_05",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_05.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_06",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_06.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_07",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_07.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_08",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_08.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_09",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_09.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_10",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_10.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_amarillo_11",
+   "expansion": "montanas_locura",
+   "color": "amarillo",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_amarillo_11.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_01",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_01.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_02",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_02.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_03",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_03.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_04",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_04.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_05",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_05.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_06",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_06.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_07",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_07.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_01",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_01.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_02",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_02.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_08",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_08.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_verde_09",
+   "expansion": "montanas_locura",
+   "color": "verde",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_verde_09.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_03",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_03.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_04",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_04.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_05",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_05.webp"
+  },
+  {
+   "id": "montanas_locura_mitos_azul_06",
+   "expansion": "montanas_locura",
+   "color": "azul",
+   "back": "assets/cards/montanas_locura/mitos/reverso.webp",
+   "image": "assets/cards/montanas_locura/mitos/montanas_locura_mitos_azul_06.webp"
+  }
+ ],
+ "preludes": [
+  {
+   "id": "montanas_locura_preludio_01",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_01.webp"
+  },
+  {
+   "id": "montanas_locura_preludio_02",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_02.webp"
+  },
+  {
+   "id": "montanas_locura_preludio_03",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_03.webp"
+  },
+  {
+   "id": "montanas_locura_preludio_04",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_04.webp"
+  },
+  {
+   "id": "montanas_locura_preludio_antartida",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_antartida.webp"
+  },
+  {
+   "id": "montanas_locura_preludio_06",
+   "expansion": "montanas_locura",
+   "back": "assets/cards/montanas_locura/preludios/reverso.webp",
+   "image": "assets/cards/montanas_locura/preludios/montanas_locura_preludio_06.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "montanas_locura_misterio_antiguos_01",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_01.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_02",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_02.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_03",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_03.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_04",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_04.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_05",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_05.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_06",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_06.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_07",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_07.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_antiguos_08",
+   "expansion": "montanas_locura",
+   "ancientOne": "antiguos",
+   "back": "assets/cards/montanas_locura/misterios/reverso_antiguos.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_antiguos_08.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_01",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_01.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_02",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_02.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_03",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_03.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_04",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_04.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_05",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_05.webp"
+  },
+  {
+   "id": "montanas_locura_misterio_ithaqua_06",
+   "expansion": "montanas_locura",
+   "ancientOne": "ithaqua",
+   "back": "assets/cards/montanas_locura/misterios/reverso_ithaqua.webp",
+   "image": "assets/cards/montanas_locura/misterios/montanas_locura_misterio_ithaqua_06.webp"
+  }
+ ],
+ "adventures": [
+  {
+   "id": "montanas_locura_aventura_2_01",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 2,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_2.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_2_01.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_1_01",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 1,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_1.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_1_01.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_1_02",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 1,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_1.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_1_02.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_1_03",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 1,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_1.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_1_03.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_1_04",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 1,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_1.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_1_04.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_2_02",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 2,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_2.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_2_02.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_2_03",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 2,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_2.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_2_03.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_2_04",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 2,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_2.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_2_04.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_3_01",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 3,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_3.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_3_01.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_3_02",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 3,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_3.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_3_02.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_3_03",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 3,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_3.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_3_03.webp"
+  },
+  {
+   "id": "montanas_locura_aventura_3_04",
+   "expansion": "montanas_locura",
+   "ancientOne": "antartida",
+   "stage": 3,
+   "back": "assets/cards/montanas_locura/aventuras/reverso_3.webp",
+   "image": "assets/cards/montanas_locura/aventuras/montanas_locura_aventura_3_04.webp"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "ancientOnes": [
+  {
+   "id": "mi_go",
+   "expansion": "hijos_yuggoth",
+   "sheet": "assets/primigenios/hijos_yuggoth/mi_go_hoja.webp",
+   "sheetBack": "assets/primigenios/hijos_yuggoth/mi_go_reverso.webp",
+   "portrait": "assets/primigenios/hijos_yuggoth/mi_go_retrato.webp"
+  }
+ ],
+ "mythos": [],
+ "mysteries": [
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_01",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_01.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_02",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_02.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_03",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_03.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_04",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_04.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_05",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_05.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_06",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_06.webp"
+  },
+  {
+   "id": "hijos_yuggoth_misterio_mi_go_07",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "back": "assets/cards/hijos_yuggoth/misterios/reverso_mi_go.webp",
+   "image": "assets/cards/hijos_yuggoth/misterios/hijos_yuggoth_misterio_mi_go_07.webp"
+  }
+ ],
+ "adventures": [
+  {
+   "id": "hijos_yuggoth_aventura_1_01",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 1,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_1.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_1_01.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_1_02",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 1,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_1.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_1_02.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_1_03",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 1,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_1.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_1_03.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_1_04",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 1,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_1.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_1_04.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_2_01",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 2,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_2.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_2_01.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_2_02",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 2,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_2.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_2_02.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_2_03",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 2,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_2.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_2_03.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_2_04",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 2,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_2.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_2_04.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_3_01",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 3,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_3.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_3_01.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_3_02",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 3,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_3.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_3_02.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_3_03",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 3,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_3.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_3_03.webp"
+  },
+  {
+   "id": "hijos_yuggoth_aventura_3_04",
+   "expansion": "hijos_yuggoth",
+   "ancientOne": "mi_go",
+   "stage": 3,
+   "back": "assets/cards/hijos_yuggoth/aventuras/reverso_3.webp",
+   "image": "assets/cards/hijos_yuggoth/aventuras/hijos_yuggoth_aventura_3_04.webp"
+  }
+ ]
+}

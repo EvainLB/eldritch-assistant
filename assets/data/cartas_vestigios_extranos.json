@@ -1,0 +1,874 @@
+{
+ "cards": [
+  {
+   "id": "vestigios_extranos_americas_01",
+   "expansion": "vestigios_extranos",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_americas_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/americas.webp"
+  },
+  {
+   "id": "vestigios_extranos_americas_02",
+   "expansion": "vestigios_extranos",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_americas_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/americas.webp"
+  },
+  {
+   "id": "vestigios_extranos_americas_03",
+   "expansion": "vestigios_extranos",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_americas_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/americas.webp"
+  },
+  {
+   "id": "vestigios_extranos_americas_04",
+   "expansion": "vestigios_extranos",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_americas_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/americas.webp"
+  },
+  {
+   "id": "vestigios_extranos_asia_01",
+   "expansion": "vestigios_extranos",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_asia_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/asia.webp"
+  },
+  {
+   "id": "vestigios_extranos_asia_02",
+   "expansion": "vestigios_extranos",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_asia_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/asia.webp"
+  },
+  {
+   "id": "vestigios_extranos_asia_03",
+   "expansion": "vestigios_extranos",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_asia_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/asia.webp"
+  },
+  {
+   "id": "vestigios_extranos_asia_04",
+   "expansion": "vestigios_extranos",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_asia_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/asia.webp"
+  },
+  {
+   "id": "vestigios_extranos_europa_01",
+   "expansion": "vestigios_extranos",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_europa_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/europa.webp"
+  },
+  {
+   "id": "vestigios_extranos_europa_02",
+   "expansion": "vestigios_extranos",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_europa_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/europa.webp"
+  },
+  {
+   "id": "vestigios_extranos_europa_03",
+   "expansion": "vestigios_extranos",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_europa_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/europa.webp"
+  },
+  {
+   "id": "vestigios_extranos_europa_04",
+   "expansion": "vestigios_extranos",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_europa_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/europa.webp"
+  },
+  {
+   "id": "vestigios_extranos_general_01",
+   "expansion": "vestigios_extranos",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_general_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/general.webp"
+  },
+  {
+   "id": "vestigios_extranos_general_02",
+   "expansion": "vestigios_extranos",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_general_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/general.webp"
+  },
+  {
+   "id": "vestigios_extranos_general_03",
+   "expansion": "vestigios_extranos",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_general_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/general.webp"
+  },
+  {
+   "id": "vestigios_extranos_general_04",
+   "expansion": "vestigios_extranos",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_general_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/general.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_01",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_02",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_03",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_04",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_05",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_otros_mundos_06",
+   "expansion": "vestigios_extranos",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_otros_mundos_06.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_chichen_itza_01",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Chichén Itzá",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_chichen_itza_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_chichen_itza.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_chichen_itza_02",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Chichén Itzá",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_chichen_itza_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_chichen_itza.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_chichen_itza_03",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Chichén Itzá",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_chichen_itza_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_chichen_itza.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_chichen_itza_04",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Chichén Itzá",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_chichen_itza_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_chichen_itza.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_chichen_itza_05",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Chichén Itzá",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_chichen_itza_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_chichen_itza.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_estatuas_moai_01",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Estatuas Moai",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_estatuas_moai_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_estatuas_moai.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_estatuas_moai_02",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Estatuas Moai",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_estatuas_moai_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_estatuas_moai.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_estatuas_moai_03",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Estatuas Moai",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_estatuas_moai_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_estatuas_moai.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_estatuas_moai_04",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Estatuas Moai",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_estatuas_moai_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_estatuas_moai.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_estatuas_moai_05",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Estatuas Moai",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_estatuas_moai_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_estatuas_moai.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_gran_muralla_china_01",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Gran Muralla China",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_gran_muralla_china_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_gran_muralla_china.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_gran_muralla_china_02",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Gran Muralla China",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_gran_muralla_china_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_gran_muralla_china.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_gran_muralla_china_03",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Gran Muralla China",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_gran_muralla_china_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_gran_muralla_china.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_gran_muralla_china_04",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Gran Muralla China",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_gran_muralla_china_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_gran_muralla_china.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_gran_muralla_china_05",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Gran Muralla China",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_gran_muralla_china_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_gran_muralla_china.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_stonehenge_01",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Stonehenge",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_stonehenge_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_stonehenge.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_stonehenge_02",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Stonehenge",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_stonehenge_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_stonehenge.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_stonehenge_03",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Stonehenge",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_stonehenge_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_stonehenge.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_stonehenge_04",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Stonehenge",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_stonehenge_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_stonehenge.webp"
+  },
+  {
+   "id": "vestigios_extranos_ruinas_stonehenge_05",
+   "expansion": "vestigios_extranos",
+   "deck": "ruinas",
+   "ancientOne": null,
+   "location": "Stonehenge",
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_ruinas_stonehenge_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/ruinas_stonehenge.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_01",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_02",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_03",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_04",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_05",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_06",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_06.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_07",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_07.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_08",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_08.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_09",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_09.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_10",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_10.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_11",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_11.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_12",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_12.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_13",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_13.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_14",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_14.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_15",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_15.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_16",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_16.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_17",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_17.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_18",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_18.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_19",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_19.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_20",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_20.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_21",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_21.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_22",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_22.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_23",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_23.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_investigacion_syzygy_24",
+   "expansion": "vestigios_extranos",
+   "deck": "investigacion",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_investigacion_syzygy_24.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/investigacion_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_01",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_02",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_03",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_04",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_05",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_06",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_06.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_07",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_07.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_08",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_08.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_barrera_09",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "barrera",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_barrera_09.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_barrera.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_01",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_01.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_02",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_02.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_03",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_03.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_04",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_04.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_05",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_05.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_06",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_06.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_07",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_07.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_08",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_08.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_09",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_09.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_10",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_10.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_11",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_11.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  },
+  {
+   "id": "vestigios_extranos_especial_syzygy_sellar_portal_12",
+   "expansion": "vestigios_extranos",
+   "deck": "especial",
+   "ancientOne": "syzygy",
+   "location": null,
+   "special": "sellar_portal",
+   "image": "assets/cards/vestigios_extranos/vestigios_extranos_especial_syzygy_sellar_portal_12.webp",
+   "back": "assets/cards/vestigios_extranos/reversos/especial_syzygy_sellar_portal.webp"
+  }
+ ]
+}

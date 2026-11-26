@@ -1,0 +1,844 @@
+{
+ "cards": [
+  {
+   "id": "senales_carcosa_asia_01",
+   "expansion": "senales_carcosa",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_asia_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/asia.webp"
+  },
+  {
+   "id": "senales_carcosa_asia_02",
+   "expansion": "senales_carcosa",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_asia_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/asia.webp"
+  },
+  {
+   "id": "senales_carcosa_asia_03",
+   "expansion": "senales_carcosa",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_asia_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/asia.webp"
+  },
+  {
+   "id": "senales_carcosa_asia_04",
+   "expansion": "senales_carcosa",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_asia_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/asia.webp"
+  },
+  {
+   "id": "senales_carcosa_americas_01",
+   "expansion": "senales_carcosa",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_americas_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/americas.webp"
+  },
+  {
+   "id": "senales_carcosa_americas_02",
+   "expansion": "senales_carcosa",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_americas_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/americas.webp"
+  },
+  {
+   "id": "senales_carcosa_americas_03",
+   "expansion": "senales_carcosa",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_americas_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/americas.webp"
+  },
+  {
+   "id": "senales_carcosa_americas_04",
+   "expansion": "senales_carcosa",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_americas_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/americas.webp"
+  },
+  {
+   "id": "senales_carcosa_general_01",
+   "expansion": "senales_carcosa",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_general_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/general.webp"
+  },
+  {
+   "id": "senales_carcosa_general_02",
+   "expansion": "senales_carcosa",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_general_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/general.webp"
+  },
+  {
+   "id": "senales_carcosa_general_03",
+   "expansion": "senales_carcosa",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_general_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/general.webp"
+  },
+  {
+   "id": "senales_carcosa_general_04",
+   "expansion": "senales_carcosa",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_general_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/general.webp"
+  },
+  {
+   "id": "senales_carcosa_europa_01",
+   "expansion": "senales_carcosa",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_europa_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/europa.webp"
+  },
+  {
+   "id": "senales_carcosa_europa_02",
+   "expansion": "senales_carcosa",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_europa_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/europa.webp"
+  },
+  {
+   "id": "senales_carcosa_europa_03",
+   "expansion": "senales_carcosa",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_europa_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/europa.webp"
+  },
+  {
+   "id": "senales_carcosa_europa_04",
+   "expansion": "senales_carcosa",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_europa_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/europa.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_01",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_02",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_03",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_04",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_05",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_05.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_otros_mundos_06",
+   "expansion": "senales_carcosa",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_otros_mundos_06.webp",
+   "back": "assets/cards/senales_carcosa/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_tunguska_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Tunguska",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_tunguska_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_tunguska.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_las_piramides_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Las pirámides",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_las_piramides_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_las_piramides.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_el_himalaya_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Himalaya",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_el_himalaya_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_el_himalaya.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_el_amazonas_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Amazonas",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_el_amazonas_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_el_amazonas.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_antartida_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Antártida",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_antartida_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_antartida.webp"
+  },
+  {
+   "id": "senales_carcosa_expedicion_el_corazon_de_africa_01",
+   "expansion": "senales_carcosa",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El corazón de África",
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_expedicion_el_corazon_de_africa_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/expedicion_el_corazon_de_africa.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_01",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_02",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_03",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_04",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_05",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_05.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_06",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_06.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_07",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_07.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_08",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_08.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_09",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_09.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_10",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_10.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_11",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_11.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_12",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_12.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_13",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_13.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_14",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_14.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_15",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_15.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_16",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_16.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_17",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_17.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_18",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_18.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_19",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_19.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_20",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_20.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_21",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_21.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_22",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_22.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_23",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_23.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_investigacion_hastur_24",
+   "expansion": "senales_carcosa",
+   "deck": "investigacion",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/senales_carcosa/senales_carcosa_investigacion_hastur_24.webp",
+   "back": "assets/cards/senales_carcosa/reversos/investigacion_hastur.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_01",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_02",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_03",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_04",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_05",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_05.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_06",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_06.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_07",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_07.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_08",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_08.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_09",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_09.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_10",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_10.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_11",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_11.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_ciudades_lago_12",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "ciudades_lago",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_ciudades_lago_12.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_ciudades_lago.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_01",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_02",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_03",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_04",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_05",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_05.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_06",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_06.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_07",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_07.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_innombrable_08",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "innombrable",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_innombrable_08.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_innombrable.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_01",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_01.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_02",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_02.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_03",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_03.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_04",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_04.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_05",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_05.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_06",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_06.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_07",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_07.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_08",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_08.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_09",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_09.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_10",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_10.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_11",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_11.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  },
+  {
+   "id": "senales_carcosa_especial_hastur_rey_amarillo_12",
+   "expansion": "senales_carcosa",
+   "deck": "especial",
+   "ancientOne": "hastur",
+   "location": null,
+   "special": "rey_amarillo",
+   "image": "assets/cards/senales_carcosa/senales_carcosa_especial_hastur_rey_amarillo_12.webp",
+   "back": "assets/cards/senales_carcosa/reversos/especial_hastur_rey_amarillo.webp"
+  }
+ ]
+}

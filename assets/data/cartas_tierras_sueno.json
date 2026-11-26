@@ -1,0 +1,1304 @@
+{
+ "cards": [
+  {
+   "id": "tierras_sueno_americas_01",
+   "expansion": "tierras_sueno",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_americas_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/americas.webp"
+  },
+  {
+   "id": "tierras_sueno_americas_02",
+   "expansion": "tierras_sueno",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_americas_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/americas.webp"
+  },
+  {
+   "id": "tierras_sueno_americas_03",
+   "expansion": "tierras_sueno",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_americas_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/americas.webp"
+  },
+  {
+   "id": "tierras_sueno_americas_04",
+   "expansion": "tierras_sueno",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_americas_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/americas.webp"
+  },
+  {
+   "id": "tierras_sueno_asia_01",
+   "expansion": "tierras_sueno",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_asia_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/asia.webp"
+  },
+  {
+   "id": "tierras_sueno_asia_02",
+   "expansion": "tierras_sueno",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_asia_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/asia.webp"
+  },
+  {
+   "id": "tierras_sueno_asia_03",
+   "expansion": "tierras_sueno",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_asia_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/asia.webp"
+  },
+  {
+   "id": "tierras_sueno_asia_04",
+   "expansion": "tierras_sueno",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_asia_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/asia.webp"
+  },
+  {
+   "id": "tierras_sueno_general_01",
+   "expansion": "tierras_sueno",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_general_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/general.webp"
+  },
+  {
+   "id": "tierras_sueno_general_02",
+   "expansion": "tierras_sueno",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_general_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/general.webp"
+  },
+  {
+   "id": "tierras_sueno_general_03",
+   "expansion": "tierras_sueno",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_general_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/general.webp"
+  },
+  {
+   "id": "tierras_sueno_general_04",
+   "expansion": "tierras_sueno",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_general_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/general.webp"
+  },
+  {
+   "id": "tierras_sueno_europa_01",
+   "expansion": "tierras_sueno",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_europa_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/europa.webp"
+  },
+  {
+   "id": "tierras_sueno_europa_02",
+   "expansion": "tierras_sueno",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_europa_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/europa.webp"
+  },
+  {
+   "id": "tierras_sueno_europa_03",
+   "expansion": "tierras_sueno",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_europa_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/europa.webp"
+  },
+  {
+   "id": "tierras_sueno_europa_04",
+   "expansion": "tierras_sueno",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_europa_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/europa.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_01",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_02",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_03",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_04",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_05",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_otros_mundos_06",
+   "expansion": "tierras_sueno",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_otros_mundos_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/otros_mundos.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_01",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_02",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_03",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_04",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_05",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_06",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_07",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_08",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_09",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_09.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_10",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_10.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_11",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_11.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_12",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_12.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_13",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_13.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_14",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_14.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_15",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_15.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_sueno_16",
+   "expansion": "tierras_sueno",
+   "deck": "sueno",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_sueno_16.webp",
+   "back": "assets/cards/tierras_sueno/reversos/sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_kadath_01",
+   "expansion": "tierras_sueno",
+   "deck": "kadath",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_kadath_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/kadath.webp"
+  },
+  {
+   "id": "tierras_sueno_kadath_02",
+   "expansion": "tierras_sueno",
+   "deck": "kadath",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_kadath_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/kadath.webp"
+  },
+  {
+   "id": "tierras_sueno_kadath_03",
+   "expansion": "tierras_sueno",
+   "deck": "kadath",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_kadath_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/kadath.webp"
+  },
+  {
+   "id": "tierras_sueno_kadath_04",
+   "expansion": "tierras_sueno",
+   "deck": "kadath",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_kadath_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/kadath.webp"
+  },
+  {
+   "id": "tierras_sueno_kadath_05",
+   "expansion": "tierras_sueno",
+   "deck": "kadath",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_kadath_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/kadath.webp"
+  },
+  {
+   "id": "tierras_sueno_luna_01",
+   "expansion": "tierras_sueno",
+   "deck": "luna",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_luna_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/luna.webp"
+  },
+  {
+   "id": "tierras_sueno_luna_02",
+   "expansion": "tierras_sueno",
+   "deck": "luna",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_luna_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/luna.webp"
+  },
+  {
+   "id": "tierras_sueno_luna_03",
+   "expansion": "tierras_sueno",
+   "deck": "luna",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_luna_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/luna.webp"
+  },
+  {
+   "id": "tierras_sueno_luna_04",
+   "expansion": "tierras_sueno",
+   "deck": "luna",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_luna_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/luna.webp"
+  },
+  {
+   "id": "tierras_sueno_luna_05",
+   "expansion": "tierras_sueno",
+   "deck": "luna",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_luna_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/luna.webp"
+  },
+  {
+   "id": "tierras_sueno_subterraneo_01",
+   "expansion": "tierras_sueno",
+   "deck": "subterraneo",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_subterraneo_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/subterraneo.webp"
+  },
+  {
+   "id": "tierras_sueno_subterraneo_02",
+   "expansion": "tierras_sueno",
+   "deck": "subterraneo",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_subterraneo_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/subterraneo.webp"
+  },
+  {
+   "id": "tierras_sueno_subterraneo_03",
+   "expansion": "tierras_sueno",
+   "deck": "subterraneo",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_subterraneo_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/subterraneo.webp"
+  },
+  {
+   "id": "tierras_sueno_subterraneo_04",
+   "expansion": "tierras_sueno",
+   "deck": "subterraneo",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_subterraneo_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/subterraneo.webp"
+  },
+  {
+   "id": "tierras_sueno_subterraneo_05",
+   "expansion": "tierras_sueno",
+   "deck": "subterraneo",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_subterraneo_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/subterraneo.webp"
+  },
+  {
+   "id": "tierras_sueno_bosque_01",
+   "expansion": "tierras_sueno",
+   "deck": "bosque",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_bosque_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/bosque.webp"
+  },
+  {
+   "id": "tierras_sueno_bosque_02",
+   "expansion": "tierras_sueno",
+   "deck": "bosque",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_bosque_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/bosque.webp"
+  },
+  {
+   "id": "tierras_sueno_bosque_03",
+   "expansion": "tierras_sueno",
+   "deck": "bosque",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_bosque_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/bosque.webp"
+  },
+  {
+   "id": "tierras_sueno_bosque_04",
+   "expansion": "tierras_sueno",
+   "deck": "bosque",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_bosque_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/bosque.webp"
+  },
+  {
+   "id": "tierras_sueno_bosque_05",
+   "expansion": "tierras_sueno",
+   "deck": "bosque",
+   "ancientOne": null,
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_bosque_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/bosque.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_01",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_02",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_03",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_04",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_05",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_06",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_07",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_08",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_09",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_09.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_10",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_10.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_11",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_11.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_12",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_12.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_13",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_13.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_14",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_14.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_15",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_15.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_16",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_16.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_17",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_17.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_18",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_18.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_19",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_19.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_20",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_20.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_21",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_21.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_22",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_22.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_23",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_23.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_atlach_nacha_24",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "atlach_nacha",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_atlach_nacha_24.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_atlach_nacha.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_01",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_02",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_03",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_04",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_05",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_06",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_07",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_08",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_09",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_09.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_10",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_10.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_11",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_11.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_12",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_12.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_13",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_13.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_14",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_14.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_15",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_15.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_16",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_16.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_17",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_17.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_18",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_18.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_19",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_19.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_20",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_20.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_21",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_21.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_22",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_22.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_23",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_23.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_investigacion_hypnos_24",
+   "expansion": "tierras_sueno",
+   "deck": "investigacion",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/tierras_sueno/tierras_sueno_investigacion_hypnos_24.webp",
+   "back": "assets/cards/tierras_sueno/reversos/investigacion_hypnos.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_01",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_02",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_03",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_04",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_05",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_06",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_07",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_corona_08",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "corona",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_corona_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_corona.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_01",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_02",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_03",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_04",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_05",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_06",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_07",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_oniro_08",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "oniro",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_oniro_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_oniro.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_01",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_01.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_02",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_02.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_03",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_03.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_04",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_04.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_05",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_05.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_06",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_06.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_07",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_07.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  },
+  {
+   "id": "tierras_sueno_especial_hypnos_sueno_en_sueno_08",
+   "expansion": "tierras_sueno",
+   "deck": "especial",
+   "ancientOne": "hypnos",
+   "location": null,
+   "special": "sueno_en_sueno",
+   "image": "assets/cards/tierras_sueno/tierras_sueno_especial_hypnos_sueno_en_sueno_08.webp",
+   "back": "assets/cards/tierras_sueno/reversos/especial_hypnos_sueno_en_sueno.webp"
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "ancientOnes": [
+  {
+   "id": "syzygy",
+   "expansion": "vestigios_extranos",
+   "sheet": "assets/primigenios/vestigios_extranos/syzygy_hoja.webp",
+   "sheetBack": "assets/primigenios/vestigios_extranos/syzygy_reverso.webp",
+   "portrait": "assets/primigenios/vestigios_extranos/syzygy_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "vestigios_extranos_mitos_amarillo_01",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_01.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_02",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_02.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_03",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_03.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_04",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_04.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_05",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_05.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_06",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_06.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_07",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_07.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_amarillo_08",
+   "expansion": "vestigios_extranos",
+   "color": "amarillo",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_amarillo_08.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_azul_01",
+   "expansion": "vestigios_extranos",
+   "color": "azul",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_azul_01.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_azul_02",
+   "expansion": "vestigios_extranos",
+   "color": "azul",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_azul_02.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_azul_03",
+   "expansion": "vestigios_extranos",
+   "color": "azul",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_azul_03.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_azul_04",
+   "expansion": "vestigios_extranos",
+   "color": "azul",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_azul_04.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_azul_05",
+   "expansion": "vestigios_extranos",
+   "color": "azul",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_azul_05.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_01",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_01.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_02",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_02.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_03",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_03.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_04",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_04.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_05",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_05.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_06",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_06.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_mitos_verde_07",
+   "expansion": "vestigios_extranos",
+   "color": "verde",
+   "image": "assets/cards/vestigios_extranos/mitos/vestigios_extranos_mitos_verde_07.webp",
+   "back": "assets/cards/vestigios_extranos/mitos/reverso.webp"
+  }
+ ],
+ "preludes": [
+  {
+   "id": "vestigios_extranos_preludio_01",
+   "expansion": "vestigios_extranos",
+   "image": "assets/cards/vestigios_extranos/preludios/vestigios_extranos_preludio_01.webp",
+   "back": "assets/cards/vestigios_extranos/preludios/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_preludio_02",
+   "expansion": "vestigios_extranos",
+   "image": "assets/cards/vestigios_extranos/preludios/vestigios_extranos_preludio_02.webp",
+   "back": "assets/cards/vestigios_extranos/preludios/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_preludio_03",
+   "expansion": "vestigios_extranos",
+   "image": "assets/cards/vestigios_extranos/preludios/vestigios_extranos_preludio_03.webp",
+   "back": "assets/cards/vestigios_extranos/preludios/reverso.webp"
+  },
+  {
+   "id": "vestigios_extranos_preludio_04",
+   "expansion": "vestigios_extranos",
+   "image": "assets/cards/vestigios_extranos/preludios/vestigios_extranos_preludio_04.webp",
+   "back": "assets/cards/vestigios_extranos/preludios/reverso.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "vestigios_extranos_misterio_syzygy_01",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_01.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_misterio_syzygy_02",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_02.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_misterio_syzygy_03",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_03.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_misterio_syzygy_04",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_04.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_misterio_syzygy_05",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_05.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  },
+  {
+   "id": "vestigios_extranos_misterio_syzygy_06",
+   "expansion": "vestigios_extranos",
+   "ancientOne": "syzygy",
+   "image": "assets/cards/vestigios_extranos/misterios/vestigios_extranos_misterio_syzygy_06.webp",
+   "back": "assets/cards/vestigios_extranos/misterios/reverso_syzygy.webp"
+  }
+ ]
+}

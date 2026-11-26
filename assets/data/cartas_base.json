@@ -1,0 +1,1224 @@
+{
+ "cards": [
+  {
+   "id": "base_especial_cthulhu_01",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_01.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_cthulhu_02",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_02.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_cthulhu_03",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_03.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_cthulhu_04",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_04.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_cthulhu_05",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_05.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_cthulhu_06",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_especial_cthulhu_06.webp",
+   "back": "assets/cards/base/reversos/especial_cthulhu.webp",
+   "special": "resurgir_rlyeh"
+  },
+  {
+   "id": "base_especial_yog_sothoth_01",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_01.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_especial_yog_sothoth_02",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_02.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_especial_yog_sothoth_03",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_03.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_especial_yog_sothoth_04",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_04.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_especial_yog_sothoth_05",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_05.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_especial_yog_sothoth_06",
+   "expansion": "base",
+   "deck": "especial",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_especial_yog_sothoth_06.webp",
+   "back": "assets/cards/base/reversos/especial_yog_sothoth.webp",
+   "special": "llave_puerta"
+  },
+  {
+   "id": "base_expedicion_el_corazon_de_africa_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El corazón de África",
+   "image": "assets/cards/base/base_expedicion_el_corazon_de_africa_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_corazon_de_africa.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_corazon_de_africa_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El corazón de África",
+   "image": "assets/cards/base/base_expedicion_el_corazon_de_africa_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_corazon_de_africa.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_corazon_de_africa_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El corazón de África",
+   "image": "assets/cards/base/base_expedicion_el_corazon_de_africa_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_corazon_de_africa.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_amazonas_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Amazonas",
+   "image": "assets/cards/base/base_expedicion_el_amazonas_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_amazonas.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_amazonas_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Amazonas",
+   "image": "assets/cards/base/base_expedicion_el_amazonas_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_amazonas.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_amazonas_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Amazonas",
+   "image": "assets/cards/base/base_expedicion_el_amazonas_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_amazonas.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_antartida_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Antártida",
+   "image": "assets/cards/base/base_expedicion_antartida_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_antartida.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_antartida_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Antártida",
+   "image": "assets/cards/base/base_expedicion_antartida_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_antartida.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_antartida_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Antártida",
+   "image": "assets/cards/base/base_expedicion_antartida_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_antartida.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_himalaya_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Himalaya",
+   "image": "assets/cards/base/base_expedicion_el_himalaya_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_himalaya.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_himalaya_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Himalaya",
+   "image": "assets/cards/base/base_expedicion_el_himalaya_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_himalaya.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_el_himalaya_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "El Himalaya",
+   "image": "assets/cards/base/base_expedicion_el_himalaya_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_el_himalaya.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_las_piramides_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Las pirámides",
+   "image": "assets/cards/base/base_expedicion_las_piramides_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_las_piramides.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_las_piramides_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Las pirámides",
+   "image": "assets/cards/base/base_expedicion_las_piramides_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_las_piramides.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_las_piramides_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Las pirámides",
+   "image": "assets/cards/base/base_expedicion_las_piramides_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_las_piramides.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_tunguska_01",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Tunguska",
+   "image": "assets/cards/base/base_expedicion_tunguska_01.webp",
+   "back": "assets/cards/base/reversos/expedicion_tunguska.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_tunguska_02",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Tunguska",
+   "image": "assets/cards/base/base_expedicion_tunguska_02.webp",
+   "back": "assets/cards/base/reversos/expedicion_tunguska.webp",
+   "special": null
+  },
+  {
+   "id": "base_expedicion_tunguska_03",
+   "expansion": "base",
+   "deck": "expedicion",
+   "ancientOne": null,
+   "location": "Tunguska",
+   "image": "assets/cards/base/base_expedicion_tunguska_03.webp",
+   "back": "assets/cards/base/reversos/expedicion_tunguska.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_01",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_01.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_02",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_02.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_03",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_03.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_04",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_04.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_05",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_05.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_06",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_06.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_07",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_07.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_azathoth_08",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "azathoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_azathoth_08.webp",
+   "back": "assets/cards/base/reversos/investigacion_azathoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_01",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_01.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_02",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_02.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_03",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_03.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_04",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_04.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_05",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_05.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_06",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_06.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_07",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_07.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_cthulhu_08",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "cthulhu",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_cthulhu_08.webp",
+   "back": "assets/cards/base/reversos/investigacion_cthulhu.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_01",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_01.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_02",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_02.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_03",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_03.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_04",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_04.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_05",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_05.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_06",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_06.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_07",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_07.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_shub_niggurath_08",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "shub_niggurath",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_shub_niggurath_08.webp",
+   "back": "assets/cards/base/reversos/investigacion_shub_niggurath.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_01",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_01.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_02",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_02.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_03",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_03.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_04",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_04.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_05",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_05.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_06",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_06.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_07",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_07.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_investigacion_yog_sothoth_08",
+   "expansion": "base",
+   "deck": "investigacion",
+   "ancientOne": "yog_sothoth",
+   "location": null,
+   "image": "assets/cards/base/base_investigacion_yog_sothoth_08.webp",
+   "back": "assets/cards/base/reversos/investigacion_yog_sothoth.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_01",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_01.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_02",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_02.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_03",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_03.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_04",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_04.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_05",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_05.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_06",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_06.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_07",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_07.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_08",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_08.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_09",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_09.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_10",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_10.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_11",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_11.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_12",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_12.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_13",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_13.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_14",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_14.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_15",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_15.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_16",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_16.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_17",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_17.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_18",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_18.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_19",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_19.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_20",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_20.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_21",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_21.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_22",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_22.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_23",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_23.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_otros_mundos_24",
+   "expansion": "base",
+   "deck": "otros_mundos",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_otros_mundos_24.webp",
+   "back": "assets/cards/base/reversos/otros_mundos.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_01",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_01.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_02",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_02.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_03",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_03.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_04",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_04.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_05",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_05.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_06",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_06.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_07",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_07.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_americas_08",
+   "expansion": "base",
+   "deck": "americas",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_americas_08.webp",
+   "back": "assets/cards/base/reversos/americas.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_01",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_01.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_02",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_02.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_03",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_03.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_04",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_04.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_05",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_05.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_06",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_06.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_07",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_07.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_asia_08",
+   "expansion": "base",
+   "deck": "asia",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_asia_08.webp",
+   "back": "assets/cards/base/reversos/asia.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_01",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_01.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_02",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_02.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_03",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_03.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_04",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_04.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_05",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_05.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_06",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_06.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_07",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_07.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_europa_08",
+   "expansion": "base",
+   "deck": "europa",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_europa_08.webp",
+   "back": "assets/cards/base/reversos/europa.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_01",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_01.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_02",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_02.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_03",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_03.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_04",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_04.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_05",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_05.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_06",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_06.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_07",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_07.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_08",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_08.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_09",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_09.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_10",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_10.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_11",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_11.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  },
+  {
+   "id": "base_general_12",
+   "expansion": "base",
+   "deck": "general",
+   "ancientOne": null,
+   "location": null,
+   "image": "assets/cards/base/base_general_12.webp",
+   "back": "assets/cards/base/reversos/general.webp",
+   "special": null
+  }
+ ]
+}

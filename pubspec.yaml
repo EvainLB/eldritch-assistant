@@ -1,0 +1,82 @@
+name: eldritch_companion
+description: "Eldritch Assistant: compañero de encuentros para Eldritch Horror en español (uso personal, no oficial)."
+publish_to: 'none'
+
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.13.7
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/logo.webp
+    - assets/cajas/
+    - assets/fichas/
+    - assets/cards/base/
+    - assets/cards/base/reversos/
+    - assets/cards/base/misterios/
+    - assets/cards/base/mitos/
+    - assets/primigenios/base/
+    - assets/cards/saber_olvidado/
+    - assets/cards/saber_olvidado/reversos/
+    - assets/cards/saber_olvidado/misterios/
+    - assets/cards/saber_olvidado/mitos/
+    - assets/primigenios/saber_olvidado/
+    - assets/cards/vestigios_extranos/
+    - assets/cards/vestigios_extranos/reversos/
+    - assets/cards/vestigios_extranos/misterios/
+    - assets/cards/vestigios_extranos/mitos/
+    - assets/cards/vestigios_extranos/preludios/
+    - assets/primigenios/vestigios_extranos/
+    - assets/primigenios/
+    - assets/cards/senales_carcosa/
+    - assets/cards/senales_carcosa/reversos/
+    - assets/cards/senales_carcosa/mitos/
+    - assets/cards/senales_carcosa/preludios/
+    - assets/cards/senales_carcosa/misterios/
+    - assets/primigenios/senales_carcosa/
+    - assets/cards/ciudades_ruinas/
+    - assets/cards/ciudades_ruinas/reversos/
+    - assets/cards/ciudades_ruinas/mitos/
+    - assets/cards/ciudades_ruinas/preludios/
+    - assets/cards/ciudades_ruinas/misterios/
+    - assets/primigenios/ciudades_ruinas/
+    - assets/cards/hijos_yuggoth/
+    - assets/cards/hijos_yuggoth/reversos/
+    - assets/cards/hijos_yuggoth/misterios/
+    - assets/cards/hijos_yuggoth/aventuras/
+    - assets/primigenios/hijos_yuggoth/
+    - assets/cards/montanas_locura/
+    - assets/cards/montanas_locura/reversos/
+    - assets/cards/montanas_locura/mitos/
+    - assets/cards/montanas_locura/preludios/
+    - assets/cards/montanas_locura/misterios/
+    - assets/cards/montanas_locura/aventuras/
+    - assets/primigenios/montanas_locura/
+    - assets/cards/tierras_sueno/
+    - assets/cards/tierras_sueno/reversos/
+    - assets/cards/tierras_sueno/mitos/
+    - assets/cards/tierras_sueno/preludios/
+    - assets/cards/tierras_sueno/misterios/
+    - assets/cards/tierras_sueno/aventuras/
+    - assets/primigenios/tierras_sueno/
+
+  fonts:
+    - family: Cinzel
+      fonts:
+        - asset: assets/fonts/Cinzel.ttf
+    - family: Garamond
+      fonts:
+        - asset: assets/fonts/EBGaramond.ttf

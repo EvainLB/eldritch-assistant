@@ -1,0 +1,505 @@
+{
+ "ancientOnes": [
+  {
+   "id": "yog_sothoth",
+   "expansion": "base",
+   "sheet": "assets/primigenios/base/yog_sothoth_hoja.webp",
+   "sheetBack": "assets/primigenios/base/yog_sothoth_reverso.webp",
+   "portrait": "assets/primigenios/base/yog_sothoth_retrato.webp"
+  },
+  {
+   "id": "shub_niggurath",
+   "expansion": "base",
+   "sheet": "assets/primigenios/base/shub_niggurath_hoja.webp",
+   "sheetBack": "assets/primigenios/base/shub_niggurath_reverso.webp",
+   "portrait": "assets/primigenios/base/shub_niggurath_retrato.webp"
+  },
+  {
+   "id": "cthulhu",
+   "expansion": "base",
+   "sheet": "assets/primigenios/base/cthulhu_hoja.webp",
+   "sheetBack": "assets/primigenios/base/cthulhu_reverso.webp",
+   "portrait": "assets/primigenios/base/cthulhu_retrato.webp"
+  },
+  {
+   "id": "azathoth",
+   "expansion": "base",
+   "sheet": "assets/primigenios/base/azathoth_hoja.webp",
+   "sheetBack": "assets/primigenios/base/azathoth_reverso.webp",
+   "portrait": "assets/primigenios/base/azathoth_retrato.webp"
+  }
+ ],
+ "mythos": [
+  {
+   "id": "base_mitos_azul_01",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_01.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_02",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_02.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_03",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_03.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_04",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_04.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_05",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_05.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_06",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_06.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_07",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_07.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_08",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_08.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_09",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_09.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_10",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_10.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_11",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_11.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_azul_12",
+   "expansion": "base",
+   "color": "azul",
+   "image": "assets/cards/base/mitos/base_mitos_azul_12.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_01",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_01.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_02",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_02.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_03",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_03.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_04",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_04.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_05",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_05.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_06",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_06.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_07",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_07.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_08",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_08.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_09",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_09.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_10",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_10.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_11",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_11.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_12",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_12.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_13",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_13.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_14",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_14.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_15",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_15.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_16",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_16.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_17",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_17.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_verde_18",
+   "expansion": "base",
+   "color": "verde",
+   "image": "assets/cards/base/mitos/base_mitos_verde_18.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_01",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_01.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_02",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_02.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_03",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_03.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_04",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_04.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_05",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_05.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_06",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_06.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_07",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_07.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_08",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_08.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_09",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_09.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_10",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_10.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_11",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_11.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_12",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_12.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_13",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_13.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_14",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_14.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_15",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_15.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_16",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_16.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_17",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_17.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_18",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_18.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_19",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_19.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_20",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_20.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  },
+  {
+   "id": "base_mitos_amarillo_21",
+   "expansion": "base",
+   "color": "amarillo",
+   "image": "assets/cards/base/mitos/base_mitos_amarillo_21.webp",
+   "back": "assets/cards/base/mitos/reverso.webp"
+  }
+ ],
+ "mysteries": [
+  {
+   "id": "base_misterio_azathoth_01",
+   "expansion": "base",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/base/misterios/base_misterio_azathoth_01.webp",
+   "back": "assets/cards/base/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "base_misterio_azathoth_02",
+   "expansion": "base",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/base/misterios/base_misterio_azathoth_02.webp",
+   "back": "assets/cards/base/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "base_misterio_azathoth_03",
+   "expansion": "base",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/base/misterios/base_misterio_azathoth_03.webp",
+   "back": "assets/cards/base/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "base_misterio_azathoth_04",
+   "expansion": "base",
+   "ancientOne": "azathoth",
+   "image": "assets/cards/base/misterios/base_misterio_azathoth_04.webp",
+   "back": "assets/cards/base/misterios/reverso_azathoth.webp"
+  },
+  {
+   "id": "base_misterio_cthulhu_01",
+   "expansion": "base",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/base/misterios/base_misterio_cthulhu_01.webp",
+   "back": "assets/cards/base/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "base_misterio_cthulhu_02",
+   "expansion": "base",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/base/misterios/base_misterio_cthulhu_02.webp",
+   "back": "assets/cards/base/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "base_misterio_cthulhu_03",
+   "expansion": "base",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/base/misterios/base_misterio_cthulhu_03.webp",
+   "back": "assets/cards/base/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "base_misterio_cthulhu_04",
+   "expansion": "base",
+   "ancientOne": "cthulhu",
+   "image": "assets/cards/base/misterios/base_misterio_cthulhu_04.webp",
+   "back": "assets/cards/base/misterios/reverso_cthulhu.webp"
+  },
+  {
+   "id": "base_misterio_shub_niggurath_01",
+   "expansion": "base",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/base/misterios/base_misterio_shub_niggurath_01.webp",
+   "back": "assets/cards/base/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "base_misterio_shub_niggurath_02",
+   "expansion": "base",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/base/misterios/base_misterio_shub_niggurath_02.webp",
+   "back": "assets/cards/base/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "base_misterio_shub_niggurath_03",
+   "expansion": "base",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/base/misterios/base_misterio_shub_niggurath_03.webp",
+   "back": "assets/cards/base/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "base_misterio_shub_niggurath_04",
+   "expansion": "base",
+   "ancientOne": "shub_niggurath",
+   "image": "assets/cards/base/misterios/base_misterio_shub_niggurath_04.webp",
+   "back": "assets/cards/base/misterios/reverso_shub_niggurath.webp"
+  },
+  {
+   "id": "base_misterio_yog_sothoth_01",
+   "expansion": "base",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/base/misterios/base_misterio_yog_sothoth_01.webp",
+   "back": "assets/cards/base/misterios/reverso_yog_sothoth.webp"
+  },
+  {
+   "id": "base_misterio_yog_sothoth_02",
+   "expansion": "base",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/base/misterios/base_misterio_yog_sothoth_02.webp",
+   "back": "assets/cards/base/misterios/reverso_yog_sothoth.webp"
+  },
+  {
+   "id": "base_misterio_yog_sothoth_03",
+   "expansion": "base",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/base/misterios/base_misterio_yog_sothoth_03.webp",
+   "back": "assets/cards/base/misterios/reverso_yog_sothoth.webp"
+  },
+  {
+   "id": "base_misterio_yog_sothoth_04",
+   "expansion": "base",
+   "ancientOne": "yog_sothoth",
+   "image": "assets/cards/base/misterios/base_misterio_yog_sothoth_04.webp",
+   "back": "assets/cards/base/misterios/reverso_yog_sothoth.webp"
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "cards": [
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_01",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_01.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_02",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_02.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_03",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_03.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_04",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_04.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_05",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_05.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_06",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_06.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_07",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_07.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_08",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_08.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_09",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_09.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_10",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_10.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_11",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_11.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_12",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_12.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_13",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_13.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_14",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_14.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_15",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_15.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_16",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_16.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_17",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_17.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_18",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_18.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_19",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_19.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_20",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_20.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_21",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_21.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_22",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_22.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_23",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_23.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_24",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_24.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_investigacion_mi_go_25",
+   "expansion": "hijos_yuggoth",
+   "deck": "investigacion",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": null,
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_investigacion_mi_go_25.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/investigacion_mi_go.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_01",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_01.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_02",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_02.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_03",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_03.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_04",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_04.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_05",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_05.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_06",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_06.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_07",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_07.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_08",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_08.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_09",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_09.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  },
+  {
+   "id": "hijos_yuggoth_especial_mi_go_susurra_10",
+   "expansion": "hijos_yuggoth",
+   "deck": "especial",
+   "ancientOne": "mi_go",
+   "location": null,
+   "special": "susurra",
+   "image": "assets/cards/hijos_yuggoth/hijos_yuggoth_especial_mi_go_susurra_10.webp",
+   "back": "assets/cards/hijos_yuggoth/reversos/especial_mi_go_susurra.webp"
+  }
+ ]
+}
